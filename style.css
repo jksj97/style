@@ -34,4 +34,6 @@ header{
 .box.short{height: 60px;}
 .box.long{height: 180px;}
 
+.box.w-short{width: 240px; height: 240px;}
+
 footer{margin-top: 60px;}
